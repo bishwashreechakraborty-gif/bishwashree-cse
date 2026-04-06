@@ -20,4 +20,5 @@
 - To-Do List App
 
 ## 📫 Contact
-- Email: bishwashreechakraborty@gmail.com
+- phone: +91-6000941579
+- Email: bishwashreechakraborty@gmail.com 
