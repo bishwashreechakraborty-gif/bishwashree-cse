@@ -1,6 +1,7 @@
 # Hi, I'm Bishwashree 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&color=1113F7&background=03047100&multiline=true&random=true&width=720&height=100&lines=%F0%9F%8E%93+B.Tech+CSE+Student+;%F0%9F%92%BB+Interested+in+Web+Development+;%F0%9F%8C%B1+Currently+Learning%3A+HTML%2C+CSS%2C+JavaScript%2C+Python%2C+C%2FC%2B%2B+)](https://git.io/typing-svg)
+🎓 B.Tech CSE Student 
+💻 Interested in Web Development 
+🌱 Currently Learning: HTML, CSS, JavaScript, Python, C/C++ 
 
 ## 🔧 Skills
 - HTML5, CSS3
