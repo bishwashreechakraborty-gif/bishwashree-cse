@@ -1,6 +1,8 @@
 # Hi, I'm Bishwashree 👋
-🎓 B.Tech CSE Student 
-💻 Interested in Web Development 
+🎓 B.Tech CSE Student
+<br>
+💻 Interested in Web Development
+<br>
 🌱 Currently Learning: HTML, CSS, JavaScript, Python, C/C++
 
 ## 🔧 Skills
