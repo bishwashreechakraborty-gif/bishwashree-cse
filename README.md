@@ -1,11 +1,4 @@
-[
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&color=1113F7&background=03047100&multiline=true&height=100&lines=B.Tech+CSE+Student;Turning++ideas+into+code;Curious+Learner)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&color=1113F7&background=03047100&multiline=true&height=100&lines=B.Tech+CSE+Student;Turning++ideas+into+code;Curious+Learner" alt="Typing SVG" /></a>
-
-]
-
 # Hi, I'm Bishwashree 👋
 
 🎓 B.Tech CSE Student  
