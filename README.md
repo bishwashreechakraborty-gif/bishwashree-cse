@@ -18,7 +18,8 @@
 ## 📌 Projects
 - Portfolio Website
 - Student Form Validation
-- To-Do List App (Snake game & tic-tac-toe game)
+- To-Do List App
+- Mini Games (Snake game & tic-tac-toe game)
 
 ## 📫 Contact
 - Email: bishwashreechakraborty@gmail.com
