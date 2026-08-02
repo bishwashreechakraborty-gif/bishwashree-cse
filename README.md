@@ -17,7 +17,7 @@
 
 ## 📌 Projects
 - Portfolio Website
-- Student Form Validation
+- Student Form Validation & Registration Form
 - Simple Calculator
 - To-Do List App
 - Mini Games (Snake game & tic-tac-toe game)
