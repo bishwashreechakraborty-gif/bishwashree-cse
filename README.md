@@ -21,6 +21,8 @@
 - Simple Calculator
 - To-Do List App
 - Mini Games (Snake game & tic-tac-toe game)
+- MRI Brain Tumor Detection
+- Food Detection
 
 ## 📫 Contact
 - Email: bishwashreechakraborty@gmail.com
