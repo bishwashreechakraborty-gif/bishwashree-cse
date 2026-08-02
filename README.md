@@ -21,6 +21,7 @@
 - Simple Calculator
 - To-Do List App
 - Mini Games (Snake game & tic-tac-toe game)
+- Digit Recognition from SCRATCH
 - MRI Brain Tumor Detection
 - Food Detection
 
