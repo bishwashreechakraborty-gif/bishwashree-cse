@@ -71,11 +71,12 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwashreechakraborty-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&icon_color=FF2028&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=bishwashreechakraborty-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&icon_color=FF2028&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwashreechakraborty-gif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&text_color=FFFFFF" alt="Top Languages" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwashreechakraborty-gif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&text_color=FFFFFF)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishwashreechakraborty-gif&theme=radical&hide_border=true&background=0D1117&ring=FF2028&fire=FF2028&currStreakLabel=FF2028)
+<img src="https://streak-stats.demolab.com/?user=bishwashreechakraborty-gif&theme=radical&hide_border=true&background=0D1117&ring=FF2028&fire=FF2028&currStreakLabel=FF2028" alt="GitHub Streak" width="60%" />
 
 </div>
 
