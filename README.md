@@ -69,16 +69,15 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=bishwashreechakraborty-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&icon_color=FF2028&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwashreechakraborty-gif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2028&text_color=FFFFFF" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bishwashreechakraborty-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2028&icon_color=FF2028&text_color=C9D1D9&count_private=true" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwashreechakraborty-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2028&text_color=C9D1D9" height="180" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=bishwashreechakraborty-gif&theme=radical&hide_border=true&background=0D1117&ring=FF2028&fire=FF2028&currStreakLabel=FF2028" alt="GitHub Streak" width="60%" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bishwashreechakraborty-gif&theme=dark&hide_border=true&background=0D1117&ring=FF2028&fire=FF2028&currStreakLabel=FF2028&sideLabels=C9D1D9&dates=555555" height="180" />
+</p>
 
 ---
 
