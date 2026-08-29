@@ -4,7 +4,7 @@
 
 ### `B.Tech CSE Student` · `AI/ML Enthusiast` · `Computer Vision Developer`
 
-[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-FF2028?style=for-the-badge&logoColor=white)](https://portfolio-website-47it2ne1r.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-FF2028?style=for-the-badge&logoColor=white)](https://portfolio-website-tau-ten-95.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishwashree-chakraborty-205621327/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishwashreechakraborty@gmail.com)
 
@@ -86,6 +86,6 @@
   
   **💡 Building ideas into intelligent software.**
   
-  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF2028?style=for-the-badge)](https://portfolio-website-47it2ne1r.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF2028?style=for-the-badge)](https://portfolio-website-tau-ten-95.vercel.app)
 
 </div>
